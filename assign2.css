@@ -43,11 +43,8 @@
      padding-right:50px;    
       align-items: center;  
 }
-.img2: hover {
-    /* width: 120%; */
-}
 
- .left{    
+.left{    
     font-family: "Montserrat";
     font-weight: 700;
     font-size: 32px;
@@ -56,34 +53,28 @@
 }
 
 .nav-middle {   
-     display : flex;
+    display : flex;
     background: #FFFFFF;
     border: 2px solid rgba(43, 120, 212, 0.26);
     border-radius: 12px;
 }
-.search {
-    /* margin: 9px; */
-}
+
 input {
     border :none;
     /* text-align: center;  */
-     padding-left: 10px; 
-     font-family: 'Montserrat';
-font-style: normal;
-font-weight: 500; 
-font-size: 18px;
-line-height: 22px;
-color: #5C83B1;
-/* identical to box height */
-
-
-color: rgba(92, 131, 177, 0.82);
+    padding-left: 10px; 
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500; 
+    font-size: 18px;
+    line-height: 22px;
+    color: #5C83B1;
+    color: rgba(92, 131, 177, 0.82);
 
 }
 
 .nav-right {
-
-text-align: center; 
+    text-align: center; 
 
 }
 .btn {
@@ -115,19 +106,21 @@ padding: 15px;
     font-size: 10px;
     line-height: 22px;
     text-align: center;
-    padding: 0px;
-    padding-bottom: 0px;
-    padding-left: 15px;
-    padding-right: 15px;
-    /* width: 202px; */
-    /* padding: 10px; */
+    float: right;
+    bottom: 0px;
+    margin-top:100px;
+    /* margin-left:300px; */ */
+    /* padding-left: 15px;
+    padding-right: 15px;   */
+    width: 100px; 
+    /* padding: 10px;  */
    
 
  }
  .bright {
-    position: absolute;
+    /* position: absolute; */ 
     bottom: 10px;
-    right:20px;  
+    right:20px;    
 
  }
  .grid-container {
@@ -143,10 +136,13 @@ padding: 15px;
  #content1 {
     display: grid;
     /* display :none; */
-    grid-template-columns: 450px 450px 450px 450px;
-    grid-auto-rows: 213px; 
-    grid-row-gap: 30px;
-    grid-column-gap: 30px; 
+    /* /* grid-template-columns: 450px 450px 450px 450px; */
+    
+    grid-template-columns: 25% 25% 25% 25%;
+    /* grid-template-rows: 15% 15% 15% 15%; */
+    grid-auto-rows: max-content;  
+    grid-row-gap: 40px; 
+    grid-column-gap: 40px; 
     justify-content: space-between;
     
       /* background-color: white;  */
@@ -157,7 +153,7 @@ padding: 15px;
 
   .grid1 {
       /* position: flex ; */
-      display: inline-flex;
+      display: flex;
       padding-top :20px;
       padding-bottom :20px;
       padding-left :10px;
@@ -166,36 +162,47 @@ padding: 15px;
      border-radius: 20px;
       background-color: white;  
  } 
- .switchdis:hover {    
+ .grid1:hover > .switchdis{
+     display: none;
+ }
+ .grid1:hover > .hoverdis{
+    display: block;
+}
+
+
+ /* .switchdis:hover {    
     visibility: hidden;    
     /* display: none; */
-     }
-     
+     /* } */ */
+   .switchdis{
+       display: block;
+   }  
+   /* .switchdis:hover{
+       display: none;
+   } */
 .hoverdis {
-    visibility: none;
-    
+    display:none;   
     
      }
-.hoverdis:hover  {
-    visibility:visible;  
-    background-color: white;
-    border: 2px solid blue;
+.hoverdis  {
+    
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 22px;
-    color: #5C83B1;
+    color: #5C83B1;   
+    height:170px; 
+    /* width: 410px; */ 
+    background-color: white;
     
-    /* display: block;    
-    color: red;   */
      }
      
 
   .subdet_p2{
     padding-top:20px;
     padding-bottom:10px;
-    padding-right:10px;
+    /* padding-right:10px; */
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 500;
@@ -227,29 +234,5 @@ span {
 
 }
  
-
-
-/* .grid-container  {
-    display: grid;
-    /* width: 540px; */
-    /* grid-gap: 10px; */
-    /* grid-template-columns: 450px 450px 450px 450px;
-    grid-auto-rows: 230px;
-    grid-row-gap: 70px;
-    grid-column-gap: 40px;
-    */
-  /* align-items: start; */
-  /* justify-content: space-between;   */
-  /* color:red; */
-    /* justify-content: space-between; */
-
-/* .details {
-    display:grid;
-}*/
-/* .grid-container { 
-    margin-top: 100px;
-    margin-left : 40px;
-    margin-right: 40px;
-} */
 
 

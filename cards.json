@@ -1,97 +1,113 @@
 var jsonObject = {
     "products":[
-        {  "htext":"This workflow is to enable an employee <br> raise his leave request and get it approved <br>it from him reporting manager",
+        {  "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
+            "view":"View Detaills",
             "image": "shapes/mid/Ellipse 2.png",
             "title": "MANIKANDAN J N",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 1"
          },
-         {  "htext":"Hello",
+         {  "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
              "title": "KAMESHWARAN",
              "description": "Software Developer Intern",
-             "content": "Software Developer Intern in Fibonalobas"
+             "content": "Software Developer Intern in Fibonalobas 2"
          },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "CHRISTOPHER",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 3"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 4"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "SAVITHA",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 5"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "SIVA KUMAR M N",
             "description": "Software Developer",
-            "content": "Working in Fibonalabs as FrontEnd ReactJS Developer"
+            "content": "Working in Fibonalabs as ReactJS Developer"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "ADITHYA MAURYA",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 7"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "MAHA LAKSHMI",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 8"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "MANIKANDAN J N",
             "description": "Software Developer Intern",
-            "content": "Software Developer Intern in Fibonalobas"
+            "content": "Software Developer Intern in Fibonalobas 9"
          },
-         {  "htext":"Hello",
+         {  "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
              "title": "KAMESHWARAN",
              "description": "Software Developer Intern",
-             "content": "Software Developer Intern in Fibonalobas"
+             "content": "Software Developer Intern in Fibonalobas 10"
          },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "CHRISTOPHER",
             "description": "Software Developer Intern",
             "content": "Software Developer Intern in Fibonalobas"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "Ashwini",
             "description": "Software Developer",
             "content": "Working as Software Developer in Fibonalobas"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "SAVITHA",
             "description": "Software Developer Intern",
             "content": "Software Developer Intern in Fibonalobas"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee  raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "SIVA KUMAR M N",
             "description": "Software Developer",
-            "content": "Working in Fibonalabs as FrontEnd ReactJS Developer"
+            "content": "Working in Fibonalabs as ReactJS Developer"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee  raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "ADITHYA MAURYA",
             "description": "Software Developer Intern",
             "content": "Software Developer Intern in Fibonalobas"
         },
-        {   "htext":"Hello",
+        {   "htext":"This workflow is to enable an employee  raise his leave request and get it approved it from him reporting manager",
             "image": "shapes/mid/Ellipse 2.png",
+            "view":"View Detaills",
             "title": "Ashiwini",
             "description": "Software Developer",
             "content": "Working as Software Developer in Fibonalobas"
